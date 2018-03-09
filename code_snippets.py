@@ -2125,5 +2125,5 @@ def regression_process():
     .number of data points
     .shape of
     .rsqd
-    
+
     '''
